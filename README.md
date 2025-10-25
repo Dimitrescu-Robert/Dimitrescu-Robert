@@ -1,1 +1,1 @@
-<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitrescu-Robert,&hide_border=true&title_color=5391FE&text_color=555">
+[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimitrescu-Robert)](https://github.com/Dimitrescu-Robert/github-readme-stats)
