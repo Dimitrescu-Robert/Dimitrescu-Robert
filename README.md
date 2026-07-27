@@ -24,4 +24,4 @@
 
 ---
 
-⚙️ **Dotfiles & tooling:** [dev-setup](https://github.com/YOUR-USERNAME/dev-setup) — my portable Linux dev environment.
+⚙️ **Dotfiles & tooling:** [dev-setup](https://github.com/Dimitrescu-Robert/dev-setup) — my portable Linux dev environment.
