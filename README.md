@@ -22,5 +22,6 @@
 
 <br clear="both">
 
+---
 
 ⚙️ **Dotfiles & tooling:** [dev-setup](https://github.com/Dimitrescu-Robert/dev-setup) — my portable Linux dev environment.
